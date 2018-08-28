@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/imdango/.vim/bundle/vim-airline-themes/autoload/airline'
+let g:netrw_dirhist_2='/home/imdango/.vim/bundle/vim-airline-themes/autoload/airline/themes'
+let g:netrw_dirhist_3='/home/imdango/.vim'
+let g:netrw_dirhist_4='/home/imdango/.vim/autoload'
+let g:netrw_dirhist_5='/mnt/c/Users/Administrator/Desktop/nqui/promptline.vim'
+let g:netrw_dirhist_6='/mnt/c/Users/Administrator/Desktop/nqui/promptline.vim/doc'
+let g:netrw_dirhist_7='/mnt/c/Users/Administrator/Desktop/nqui/promptline.vim'
+let g:netrw_dirhist_8='/mnt/c/Users/Administrator/Desktop/nqui/promptline.vim/autoload'
+let g:netrw_dirhist_9='/mnt/c/Users/Administrator/Desktop/nqui/ag_basic'
