@@ -4,7 +4,7 @@ set shiftwidth=4
 set expandtab
 
 set t_Co=256
-colorscheme PaperColor
+colorscheme gruvbox
 set cursorline
 set cursorcolumn
 set background=dark
@@ -20,9 +20,9 @@ set incsearch
 set nowrap
 set ignorecase
 set smartcase
-highlight Search cterm=none ctermbg=11
+highlight Search cterm=none ctermbg=11 ctermfg=9
 "highlight CursorColumn cterm=none ctermbg=110
-highlight CursorLine cterm=italic
+highlight CursorLine cterm=bold
 highlight DiffText cterm=bold ctermbg=202 ctermfg=12
 highlight Pmenu cterm=none ctermbg=11
 highlight Cursor guifg=white guibg=black
@@ -36,7 +36,7 @@ set pastetoggle=<F11>
 set mousemodel=extend
 set paste
 set nopaste
-let g:airline_theme='badcat'
+let g:airline_theme='badwolf'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
